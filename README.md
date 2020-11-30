@@ -7,8 +7,5 @@ new line 2
 practise session
 new exercise
 byjus
-<<<<<<< HEAD
 hello
-=======
 helloooii
->>>>>>> master
